@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, My Name Is Asad Ullah</h1>
+<h3 align="center">I am a MERN Stack Developer</h3>
+
+- 📫 How to reach me **asadukhan2723@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 # 💫 About Me:
 .  Hello<br>.  My name is Asad Ullah <br>.  I am a MERN Stack developer<br>.  Currently studying BSCS from Dawood University
 
