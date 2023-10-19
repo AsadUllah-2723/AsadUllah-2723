@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Name Is Asad Ullah</h1>
-<h3 align="center">I am a MERN Stack Developer</h3>
+<h3 align="center">I am a FULL Stack Developer</h3>
 
 - 📫 How to reach me **asadukhan2723@gmail.com**
 
